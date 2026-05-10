@@ -1,0 +1,9 @@
+Examwork_program/
+└── DevOps-Intelligence-Portfolio/
+    ├── README.md  ← who you are, the goal, the timeline
+    ├── 01_AI-Driven-DevOps-Monitoring/     ← current project
+    ├── 02_post-mortem-practice/            ← incident analysis skills
+    ├── 03_runbook-writing/                 ← operational documentation
+    ├── 04_cloud-cost-optimization/         ← AWS/cloud awareness
+    ├── 05_platform-engineering/            ← golden paths, self-service infra
+    └── 06_devops-intelligence-capstone/    ← ties everything together
