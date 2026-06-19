@@ -39,7 +39,7 @@ path from junior DevOps to DevOps Intelligence Engineer.
 
 | # | Project | Focus | Status |
 |---|---------|-------|--------|
-| 01 | [AI-Driven DevOps Monitoring](./01_AI-Driven-DevOps-Monitoring/) | Kubernetes, Prometheus, Grafana, AI anomaly detection | 🟡 In Progress |
+| 01 | [AI-Driven DevOps Monitoring](./01_AI-Driven-DevOps-Monitoring/) | Kubernetes, Prometheus, Grafana, AI anomaly detection | 🟡 Done |
 | 02 | Post-Mortem Practice | Incident analysis, root cause documentation | 🔲 Planned |
 | 03 | Runbook Writing | Operational documentation, on-call preparation | 🔲 Planned |
 | 04 | Cloud Cost Optimization | AWS cost analysis, resource right-sizing | 🔲 Planned |
